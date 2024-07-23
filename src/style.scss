@@ -1,0 +1,109 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.spline-animation-editor .components-base-control.components-range-control,
+.spline-animation-editor
+	.components-base-control.components-range-control
+	label,
+.spline-animation-editor .components-base-control {
+	margin-bottom: 0px !important;
+}
+
+.spline-animation-editor .spline-animation-panel-body {
+	border: 1px solid #ccc;
+	border-width: 1px !important;
+}
+.rotate360,
+.moveRight {
+	height: 200vh;
+	margin-top: 50vh;
+}
+
+// .active-spline-animation-preview .block-editor-default-block-appender {
+// 	display: none;
+// }
+.animation-property {
+	width: 100%;
+}
+.animation-property > div {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	padding-right: 5px;
+}
+.active-spline-animation-preview
+	.editor-styles-wrapper.block-editor-writing-flow {
+	padding: 0;
+	margin: 0;
+}
+
+// .active-spline-animation-preview
+// 	.edit-post-visual-editor__post-title-wrapper.has-global-padding {
+// 	display: none;
+// }
+
+@media (min-width: 320px) {
+	/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+}
+@media (max-width: 480px) {
+	/* smartphones, Android phones, landscape iPhone */
+	.wp-block:not(.is-selected) > .mobileHidden {
+		opacity: 0.5 !important;
+	}
+}
+@media (max-width: 600px) {
+	/* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+}
+@media (max-width: 801px) {
+	/* tablet, landscape iPad, lo-res laptops ands desktops */
+	.wp-block:not(.is-selected) > .tabletHidden {
+		opacity: 0.5 !important;
+	}
+}
+@media (max-width: 1025px) {
+	/* big landscape tablets, laptops, and desktops */
+}
+@media (max-width: 1281px) {
+	/* hi-res laptops and desktops */
+	.wp-block:not(.is-selected) > .desktopHidden {
+		opacity: 0.5 !important;
+	}
+}
+.px-4 {
+	padding-left: 4px;
+	padding-right: 4px;
+}
+.no-shadow {
+	box-shadow: none !important;
+}
+.hide-spin-arrows .components-base-control__field {
+	height: 100%;
+}
+.hide-spin-arrows input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.spline-animation-editor .components-tab-panel__tabs {
+	justify-content: space-between;
+}
+.spline-animation-editor .components-button.has-icon {
+	width: 100% !important;
+}
+/* options page */
+
+.akdev_options_wrapper {
+	padding: 15px 15px;
+	background-color: #fff;
+	margin: 20px 0;
+	max-width: 420px;
+	border: 1px solid #c2c2c2;
+	width: 100%;
+}
+.akdev_options_wrapper p.submit {
+	margin: 0;
+	padding: 0;
+}

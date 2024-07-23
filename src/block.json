@@ -1,0 +1,72 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "create-block/akdev-spline-animation",
+	"version": "0.1.0",
+	"title": "Spline animation",
+	"icon": "smiley",
+	"category": "animations",
+	"script": "file:./client.js",
+	"description": "With this block plugin you can add spline 3d animation to your wordpress website, create experiences which will wow your users.",
+	"example": {},
+	"supports": {
+		"html": true
+	},
+	"attributes": {
+		"url": {
+			"type": "string",
+			"default": "sxsd",
+			"selector": "p"
+		},
+		"splineProperties": {
+			"type": "array",
+			"default": ["rotateX", "rotateY", "posX", "posY", "scaleX", "scaleY"]
+		},
+
+		"splineUrl": {
+			"type": "string"
+		},
+		"style": {
+			"type": "string"
+		},
+
+		"responsiveSettings": {
+			"type": "boolean",
+			"default": false
+		},
+
+		"mobileHidden": {
+			"type": "boolean",
+			"default": false
+		},
+
+		"tabletHidden": {
+			"type": "boolean",
+			"default": false
+		},
+		"desktopHidden": {
+			"type": "boolean",
+			"default": false
+		},
+		"responsivClass": {
+			"type": "string"
+		},
+		"animations": {
+			"type": "array",
+			"default": []
+		},
+		"splineAnimations": {
+			"type": "object",
+			"default": {}
+		},
+		"customStyles": {
+			"type": "object"
+		}
+	},
+
+	"textdomain": "akdev-spline-animation",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./style.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}

@@ -3,7 +3,7 @@ Contributors: anasakdev
 Donate link: https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link
 Tags: block, 3d model, spline, animations, Gutenberg block
 Requires at least: 5.3+
-Tested up to: 6.4.3
+Tested up to: 6.6
 Stable tag: 1.0.0
 Requires PHP: 7.1
 License: GGPL-2.0-or-later
@@ -68,17 +68,6 @@ Why settle for ordinary when you can turn your WordPress site into a captivating
 2. Search For **AKDev Spline animation**
 3. Click on the **Spline animation** to add the block
 
-= Download & Upload: =
-1. Download the *AKDev Spline animation Block** plugin (*.zip file*)
-2. In your admin area, go to the Plugins menu and click on **Add New**
-3. Click on **Upload Plugin** and choose the **`Spline-animation-block.zip`** file and click on **Install Now**
-4. Activate the plugin and Enjoy!
-
-= Manually: =
-1. Download and upload the **AKDev Spline animation Block** plugin to the **`/wp-content/plugins/`** directory
-2. Activate the plugin through the Plugins menu in WordPress
-
-
 == Frequently Asked Questions ==
 
 = Is AKDev Spline animation Block free? =
@@ -107,37 +96,14 @@ You can use unlimited times as you want.
 
 You can post your questions on the [support forum here](https://wordpress.org/support/plugin/akdev-spline-animation/)
 
-= Is AKDev Spline animation Block free? =
-
-Yes, AKDev Spline animation Block is a free Gutenberg block plugin.
-
-= Is this a offical plugin from https://spline.design/? =
-
-This plugin is not affiliated with spline official website.
-
-= Does it work with any WordPress theme? =
-
-Yes, it will work with any standard block WordPress theme.
-
-= Can I change block settings? =
-
-Yes, you can change block settings from the Gutenberg block editor's right sidebar.
-= Position sticky is not working? =
-
-Make sure any parent element of spline animation block do not have overflow css property, that messes with sticky position.
-= How many times can I reuse a block? =
-
-You can use unlimited times as you want.
-
-= Where can I get support? =
-
-You can post your questions on the [support forum here](https://wordpress.org/support/plugin/akdev-spline-animation/)
-
-
 == Screenshots ==
 
 1. Spline animation
 2. Settings
+
+== Inspect github code ==
+
+You can view and inspect this plugins full source code on [github](https://github.com/anasak-dev/akdev-spline-animation)
 
 == Terms and Privacy Policies ==
 
@@ -162,17 +128,5 @@ This plugin uses the following scripts, and their respective terms and privacy p
 
 == Changelog ==
 
-= 1.0.0 =
-* Initial Release
-
-= 1.0.0 =
-* Initial Release
-
-
-== Upgrade Notice ==
-== Upgrade Notice ==
-
-= 1.0.0 =
-* Initial Release
 = 1.0.0 =
 * Initial Release

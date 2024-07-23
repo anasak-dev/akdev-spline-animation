@@ -6,14 +6,12 @@
  * Requires at least: 6.1
  * Requires PHP:      7.0
  * Version:           1.0.0
- * Version:           1.0.0
  * Author:            Anas niazi
  * Author URI:        https://anasniazi.com
  * Donate: Donate
  * Donate URI: https://google.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       akdev-spline-animation
  * Text Domain:       akdev-spline-animation
  *
  * @package           create-block

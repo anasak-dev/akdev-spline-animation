@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/031160e7-b7d6-4ec2-9f5a-205422d2bc4a
 **Donate link:** [https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link](https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)  
 **Tags:** block, 3d model, spline, animations, Gutenberg block  
 **Requires at least:** 5.3+  
-**Tested up to:** 6.4.3  
+**Tested up to:** 6.6
 **Stable tag:** 1.0.0  
 **Requires PHP:** 7.1  
 **License:** GGPL-2.0-or-later  
@@ -106,6 +106,10 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 
 1. Spline animation
 2. Settings
+
+## Inspect github code
+
+You can view and inspect this plugins full source code on [github](https://github.com/anasak-dev/akdev-spline-animation)
 
 ## Terms and Privacy Policies
 

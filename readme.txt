@@ -6,7 +6,7 @@ Requires at least: 5.3+
 Tested up to: 6.6
 Stable tag: 1.0.0
 Requires PHP: 7.1
-License: GGPL-2.0-or-later
+License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Create Spline 3d scrolling animations with ease and wow your users.

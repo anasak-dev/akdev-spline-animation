@@ -9,7 +9,7 @@
  * Author:            Anas niazi
  * Author URI:        https://anasniazi.com
  * Donate: Donate
- * Donate URI: https://google.com
+ * Donate URI: https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       akdev-spline-animation

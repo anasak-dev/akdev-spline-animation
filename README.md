@@ -1,8 +1,6 @@
 # AKDev Spline Animation - Delight your users experience with 3d scroll animations.
 
-
 https://github.com/user-attachments/assets/031160e7-b7d6-4ec2-9f5a-205422d2bc4a
-
 
 **Contributors:** anasakdev  
 **Donate link:** [https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link](https://www.patreon.com/anasakdev/shop/support-156932?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)  
@@ -11,8 +9,8 @@ https://github.com/user-attachments/assets/031160e7-b7d6-4ec2-9f5a-205422d2bc4a
 **Tested up to:** 6.6
 **Stable tag:** 1.0.0  
 **Requires PHP:** 7.1  
-**License:** GGPL-2.0-or-later  
-**License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
+**License:** GPL-2.0-or-later  
+**License URI:** [https://www.gnu.org/licenses/gpl-2.0.html]
 
 Create Spline 3d scrolling animations with ease and wow your users.
 

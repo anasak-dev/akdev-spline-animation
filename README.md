@@ -102,8 +102,13 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 
 ## Screenshots
 
-1. Spline animation
-2. Settings
+1. Add spline animation block
+2. Add your spline model url
+3. Custom styles
+4. Create your scroll animation
+5. Insert options (id or class of the div/group for the scrolling animation)
+6. Select animation item to edit
+7. Animation block (select the model layer and apply the movements)
 
 ## Inspect github code
 
